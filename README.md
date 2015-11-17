@@ -8,3 +8,5 @@ Snowed in!
 * Rachel made a repo called _shit_, and sean had to make a _shit fork_ and a _shit clone_.
 
 * Now we're talking more about CSS and about coping with it.
+
+So much fun!! :D
